@@ -1,3 +1,6 @@
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231A8A2D&center=true&vCenter=true&lines=Hi+There%2C+I'm+Grace)](https://git.io/typing-svg)
+ -->
+ 
 <h2 align="center">
 🍎 iOS Developer 🍎
 </h2>
